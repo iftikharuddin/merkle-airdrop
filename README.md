@@ -7,7 +7,7 @@
 - Each of the leap represent a data, and is mostly referred to leap node
 - Data is hashed via keccak to produce leap node -> leap nodes are hashed to produce intermediate nodes -> then intermediate nodes are hashed to produces root hash
 - In blockchains the block header includes transaction root, receipt root and state root. And these are merkle root hashes ... these are merkle patricia roots!
-- Merkle trees are used in roll ups (L2 scaling solutions)
+- Merkle trees are used in roll ups (`L2 scaling solutions`)
     - Batch roots, state roots
     
 ### Signatures
