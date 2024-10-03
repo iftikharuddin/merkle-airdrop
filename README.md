@@ -20,5 +20,9 @@
 - S: proof signer knows the private key
 - v: if in positive or negative part of the curve
 - direct use of ecrecover is not recommended
+- EIP-191, Signed Data Standard
+- EIP-712 signatures and verifications. It made signatures more easy to read. It prevents replay attacks
+    - 0x91 0x01 <domain seperator> <hashStruct(message)>
+- EIP-712 provides a structured and human-readable way to sign typed data, enhancing clarity and reducing errors, while EIP-191 offers a simpler, more flexible method for signing arbitrary data.    
  
 Ref: https://youtu.be/jGC3pGCfYQE
