@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b97b580-0e87-4797-aa8a-f25c892bc8b7" name="Default Changelist" comment="" />
+    <list default="true" id="2b97b580-0e87-4797-aa8a-f25c892bc8b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MerkleAirdrop.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BagelToken.sol" beforeDir="false" afterPath="$PROJECT_DIR$/src/BagelToken.sol" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727959135721</updated>
-      <workItem from="1727959137018" duration="266000" />
+      <workItem from="1727959137018" duration="1292000" />
     </task>
     <servers />
   </component>
