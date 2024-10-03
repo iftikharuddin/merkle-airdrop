@@ -11,7 +11,7 @@
     - Batch roots, state roots
     
 ### Signatures
-- ECDSA, v, r, s? 
+- ECDSA
     - elliptic curve digital signature algorithm
     - generate key pairs
     - create signatures
